@@ -266,5 +266,3 @@ python app2.py
 # 👨‍💻 Author
 
 **Aayush Jalali**
-
-Built as part of the **Datasleek AWS Voice AI Internship Assignment**.
