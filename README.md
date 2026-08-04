@@ -203,47 +203,40 @@ python app2.py
 
 ---
 
-# 📸 Project Demonstration
+## 📸 Project Demonstration
 
-## 1. Voice-Based Clinic Search with Google Maps Integration
-
-The assistant locates nearby Clove Dental clinics and opens Google Maps directions based on the user's request.
+### 1. Voice-Based Clinic Search with Google Maps Integration
 
 <p align="center">
-  <img src="screenshots/voice-based-clinic-search.png" width="900">
+<img src="./screenshots/clinic-search.png" width="900"/>
 </p>
 
 ---
 
-## 2. AI-Powered Appointment Booking with Google Calendar Integration
-
-The assistant books appointments through AWS Lambda and automatically creates a Google Calendar event.
+### 2. AI-Powered Appointment Booking with Google Calendar Integration
 
 <p align="center">
-  <img src="screenshots/appointment-booking-google-calendar.png" width="900">
+<img src="./screenshots/appointment-booking.png" width="900"/>
 </p>
 
 ---
 
-## 3. AWS Lambda Backend for Appointment Management
-
-AWS Lambda processes appointment booking requests and integrates with Google Calendar.
+### 3. AWS Lambda Backend for Appointment Management
 
 <p align="center">
-  <img src="screenshots/aws-lambda-backend.png" width="900">
+<img src="./screenshots/lambda-backend.png" width="900"/>
 </p>
 
 ---
 
-## 4. Project Structure and Amazon Nova Sonic Integration
-
-Overview of the project structure and Amazon Nova Sonic implementation.
+### 4. Project Structure and Amazon Nova Sonic Integration
 
 <p align="center">
-  <img src="screenshots/project-structure.png" width="900">
+<img src="./screenshots/project-structure.png" width="900"/>
 </p>
 
 ---
+
 
 # 🔄 How It Works
 
